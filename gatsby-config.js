@@ -1,15 +1,15 @@
 const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
-const url = 'https://lumen.netlify.com'
+const url = 'https://daniakash.com'
 
 module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog by Dani Akash',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'I build apps for a living!',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,12 +27,14 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Dani Akash',
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
+      twitter: '@dani_akash_',
+      github: 'DaniAkash',
+      rss: 'rss.xml',
+      instagram: 'dani_akash_',
+      stackoverflow: 'users/5597641/dani-akash',
       vk: '#',
     },
   },
