@@ -4,10 +4,11 @@ layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## I'm Dani.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+People know me as a mobile app developer and "The React guy" cuz I speak about javascript and javascript frameworks like React a lot in tech events and communities in Chennai. I love programming and building cool apps. I solve problems and teach people for a living. I code by the day and sleep by the night while studying particle physics on the coffee breaks.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I'm currently working in <a href="https://pickyourtrail.com" target="_blank">Pickyourtrail</a> as their chief meme creator and also coding the intelligent travel assistant <a href="https://land.ly/45UAR4" target="_blank">"Pickyourtrail Mobile app"</a>. Pickyourtrail is redefining how people travel and I get to play a cool role on that 😎
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+
+The love for software engineering is a result of my love for problem solving which is still keeping me explore different fields of science and engineering. You can checkout my blog **<a href="https://scienceandstardust.com" target="_blank">Science and StarDust</a>** where I write about the interesting things I learnt.

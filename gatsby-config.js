@@ -7,14 +7,14 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by Dani Akash',
+    title: 'Dani Akash',
     subtitle:
-      'I build apps for a living!',
+      'Writer • Speaker • Hacker',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Home',
         path: '/',
       },
       {
@@ -22,13 +22,25 @@ module.exports = {
         path: '/about/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'Projects',
+        path: '/projects/',
       },
+      {
+        label: 'Science & Stardust 🛰',
+        path: 'https://scienceandstardust.com',
+      },
+      {
+        label: 'node_modules 📦',
+        path: 'https://nodemodules.xyz',
+      },
+      // {
+      //   label: 'Contact me',
+      //   path: '/contact/',
+      // },
     ],
     author: {
       name: 'Dani Akash',
-      email: '#',
+      email: 's.daniakash@gmail.com',
       telegram: '#',
       twitter: '@dani_akash_',
       github: 'DaniAkash',
