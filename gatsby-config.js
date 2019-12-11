@@ -22,10 +22,6 @@ module.exports = {
         path: '/about/',
       },
       {
-        label: 'Projects',
-        path: '/projects/',
-      },
-      {
         label: 'Science & Stardust 🛰',
         path: 'https://scienceandstardust.com',
       },
@@ -33,10 +29,6 @@ module.exports = {
         label: 'node_modules 📦',
         path: 'https://nodemodules.xyz',
       },
-      // {
-      //   label: 'Contact me',
-      //   path: '/contact/',
-      // },
     ],
     author: {
       name: 'Dani Akash',
