@@ -2,8 +2,8 @@
 title: Science behind the world
 date: "2019-11-20T16:11:59.004Z"
 layout: post
-draft: false
-path: "/projects/science-behind-the-world/"
+draft: true
+path: "/posts/science-behind-the-world/"
 category: "project"
 tags:
   - "science"
