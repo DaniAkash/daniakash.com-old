@@ -10,6 +10,7 @@ class Post extends React.Component {
       date,
       category,
       description,
+      url,
     } = this.props.data.node.frontmatter
     const { slug, categorySlug } = this.props.data.node.fields
 
@@ -30,14 +31,26 @@ class Post extends React.Component {
           </span>
         </div>
         <h2 className="post__title">
-          <Link className="post__title-link" to={slug}>
-            {title}
-          </Link>
+          {
+            url
+            ?
+              <a href={url} className="post__title-link">{title}</a>
+            :
+              <Link className="post__title-link" to={slug}>
+                {title}
+              </Link>
+          }
         </h2>
         <p className="post__description">{description}</p>
-        <Link className="post__readmore" to={slug}>
-          Read
-        </Link>
+        {
+          url
+          ?
+            <a href={url} className="post__readmore">Read</a>
+          :
+            <Link className="post__readmore" to={slug}>
+              Read
+            </Link>
+        }
       </div>
     )
   }

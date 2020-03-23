@@ -71,8 +71,8 @@ module.exports = {
                 Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.frontmatter.description,
                   date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.url + edge.node.fields.slug,
-                  guid: site.siteMetadata.url + edge.node.fields.slug,
+                  url: edge.node.frontmatter.url || site.siteMetadata.url + edge.node.fields.slug,
+                  guid: edge.node.frontmatter.url || site.siteMetadata.url + edge.node.fields.slug,
                   custom_elements: [{ 'content:encoded': edge.node.html }],
                 })
               ),
@@ -95,6 +95,7 @@ module.exports = {
                         layout
                         draft
                         description
+                        url
                       }
                     }
                   }
