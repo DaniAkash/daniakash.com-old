@@ -8,8 +8,7 @@ module.exports = {
     url,
     siteUrl: url,
     title: 'Dani Akash',
-    subtitle:
-      'Writer • Speaker • Hacker',
+    subtitle: 'Writer • Speaker • Hacker',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,6 +19,14 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/',
+      },
+      {
+        label: 'Blog',
+        path: '/categories/blog/',
+      },
+      {
+        label: 'Tech Talks',
+        path: '/categories/tech-talks/',
       },
       {
         label: 'Science & Stardust 🛰',
@@ -71,8 +78,12 @@ module.exports = {
                 Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.frontmatter.description,
                   date: edge.node.frontmatter.date,
-                  url: edge.node.frontmatter.url || site.siteMetadata.url + edge.node.fields.slug,
-                  guid: edge.node.frontmatter.url || site.siteMetadata.url + edge.node.fields.slug,
+                  url:
+                    edge.node.frontmatter.url ||
+                    site.siteMetadata.url + edge.node.fields.slug,
+                  guid:
+                    edge.node.frontmatter.url ||
+                    site.siteMetadata.url + edge.node.fields.slug,
                   custom_elements: [{ 'content:encoded': edge.node.html }],
                 })
               ),

@@ -1,30 +1,31 @@
 ---
 title: The 10 things I learnt (or) tried learning in 2019
-date: "2020-01-04T16:58:09.309Z"
+date: '2020-01-04T16:58:09.309Z'
 layout: post
 draft: false
-path: "/posts/the-10-things-i-learnt-or-tried-learning-in-2019/"
-category: "project"
+path: '/posts/the-10-things-i-learnt-or-tried-learning-in-2019/'
+category: 'blog'
 tags:
-  - "tech"
-  - "science"
-  - "coding"
-  - "math"
-  - "learning"
+  - 'tech'
+  - 'science'
+  - 'coding'
+  - 'math'
+  - 'learning'
 description: "Before I started working on some of the important tasks I have planned for the new decade, I decided to take a couple of days to reflect on all my past learnings and the experience I have gained from them. Trust me, I'm so glad I did it..."
 ---
 
-I started my career in 2016 as a Javascript developer. Since then, I took a resolution to myself that I'd learn at least **3 new things** every year. It is supposed to be part of my life-long learning exercise and to prevent myself hitting a wall down my career path. 
+I started my career in 2016 as a Javascript developer. Since then, I took a resolution to myself that I'd learn at least **3 new things** every year. It is supposed to be part of my life-long learning exercise and to prevent myself hitting a wall down my career path.
 
 First year it was quite difficult as I was just starting my career and there were just too many things to learn. Once you realize there's too much to learn it creates an endless cycle of procrastination and a mental barrier whenever you pick up some topic. In my first year of this process, I wasted the whole first 6 months running after superficial targets like blockchain, AR, VR, ML etc. They were relatively new at that time and as a beginner they were pretty overwhelming. I ended up in a paradoxical state where I'm trying to learn something but end up going after another topic without actually making any progress on the first one.
 
 ## Overcoming the block
 
-The year of 2016 was moving fast and I'm trying to establish a solid foundation for my career all while trying to learn something new for personal growth. It was when I realized that I'm not making any progress. Comparing me with myself from the past 6 months ﹣ nothing much has changed except for the experience I gained at work as a [Node.js](https://nodejs.org/) developer. I knew it's probably time for me to stop and think about it for a while. After a week of long self evaluation on how I'm approaching things, I decided to dedicate the rest of the year (which was just 4 months now) to learn **only one new topic** with a condition that the topic should be *easy and straight forward* to learn.
+The year of 2016 was moving fast and I'm trying to establish a solid foundation for my career all while trying to learn something new for personal growth. It was when I realized that I'm not making any progress. Comparing me with myself from the past 6 months ﹣ nothing much has changed except for the experience I gained at work as a [Node.js](https://nodejs.org/) developer. I knew it's probably time for me to stop and think about it for a while. After a week of long self evaluation on how I'm approaching things, I decided to dedicate the rest of the year (which was just 4 months now) to learn **only one new topic** with a condition that the topic should be _easy and straight forward_ to learn.
 
-**Guess what?** by the end of 2016, I ended up learning [React.js](https://reactjs.org/) and I had very little idea that it will later end up defining many of my future career milestones. For learning react I had to learn a lot Javascript fundamentals, new programming paradigms (like [functional programming](https://en.wikipedia.org/wiki/Functional_programming)) and tools like [webpack](https://webpack.js.org/), [babel](https://babeljs.io/) etc. I realized two things that are essential for the learning process. 
+**Guess what?** by the end of 2016, I ended up learning [React.js](https://reactjs.org/) and I had very little idea that it will later end up defining many of my future career milestones. For learning react I had to learn a lot Javascript fundamentals, new programming paradigms (like [functional programming](https://en.wikipedia.org/wiki/Functional_programming)) and tools like [webpack](https://webpack.js.org/), [babel](https://babeljs.io/) etc. I realized two things that are essential for the learning process.
 
 Whatever you learn,
+
 1. Ensure you learn everything properly
 2. The rest of the universe can wait
 
@@ -34,11 +35,12 @@ Learning React is one thing but the true knowledge I gained in 2016 was how to l
 
 ## Learning doesn't always need a reason
 
-The first two years of my learning process were focused entirely on career growth. At the end of each year I spend a considerable amount of time thinking back on all the things I learnt and the things I wanted to learn. I love science. But in the past two years I haven't spent much time on learning anything new on science except watching a few documentaries (like [particle fever](http://particlefever.com/)) perhaps. Starting 2018, I decided to include a topic on Science (it can be anything) into my learning process. It should be now 3 topics on tech and 1 on science. 
+The first two years of my learning process were focused entirely on career growth. At the end of each year I spend a considerable amount of time thinking back on all the things I learnt and the things I wanted to learn. I love science. But in the past two years I haven't spent much time on learning anything new on science except watching a few documentaries (like [particle fever](http://particlefever.com/)) perhaps. Starting 2018, I decided to include a topic on Science (it can be anything) into my learning process. It should be now 3 topics on tech and 1 on science.
 
 I have listed below all the topics I picked up to learn and a ✔️ indicates that I have been successful in learning the concepts associated with the topic and a ❌ indicates I just messed up badly.
 
 This is how my 2018 went:
+
 1. [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) & [ReactiveX](http://reactivex.io/) ﹣ ❌
 2. [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ﹣ ❌
 3. [MobX](https://mobx.js.org) ﹣ ✔️
@@ -47,7 +49,7 @@ This is how my 2018 went:
 6. [JAMstack](https://jamstack.org/) ﹣ ✔️
 7. [Rocket Science](https://en.wikipedia.org/wiki/Rocket_science) ﹣ ❌
 
-*Oh wait did I just mess up badly again?* **Maybe...** The topics aren't tough to learn except for the Rocket Science part (It's literally Rocket Science). I did manage to learn a few things from all the topics I decided to learn last year but the problem is, on an implementation level, I didn't put much effort into building stuff that uses these concepts. Even though I understood what these things do, I decided I ain't marking them complete until I build stuff that uses these concepts. For the Rocket Science part ﹣ it isn't complete till I could derive those equations by myself. I was a bit too strict on myself but I had to... cuz nobody else will!
+_Oh wait did I just mess up badly again?_ **Maybe...** The topics aren't tough to learn except for the Rocket Science part (It's literally Rocket Science). I did manage to learn a few things from all the topics I decided to learn last year but the problem is, on an implementation level, I didn't put much effort into building stuff that uses these concepts. Even though I understood what these things do, I decided I ain't marking them complete until I build stuff that uses these concepts. For the Rocket Science part ﹣ it isn't complete till I could derive those equations by myself. I was a bit too strict on myself but I had to... cuz nobody else will!
 
 ## 2K19 - Time for a blast! 🚀
 
@@ -61,9 +63,9 @@ For starters, my selection of starter materials were too deep. I started off wit
 
 ### 2. Fundamentals of Quantum Mechanics ﹣ ✔️
 
-Inspired by the Particle Fever documentary and the hype created around quantum computers, I realized I had to learn this one. I have been passively reading about quantum mechanics concepts like [quantum entanglement](https://www.youtube.com/watch?v=ZuvK-od647c), [quantum tunneling](https://www.youtube.com/watch?v=RF7dDt3tVmI) etc. but I had to ensure I'm ready by the time humans reach **Quantum Supremacy** (which [Google](https://www.theverge.com/2019/10/23/20928294/google-quantum-supremacy-sycamore-computer-qubit-milestone) did achieve later this year). 
+Inspired by the Particle Fever documentary and the hype created around quantum computers, I realized I had to learn this one. I have been passively reading about quantum mechanics concepts like [quantum entanglement](https://www.youtube.com/watch?v=ZuvK-od647c), [quantum tunneling](https://www.youtube.com/watch?v=RF7dDt3tVmI) etc. but I had to ensure I'm ready by the time humans reach **Quantum Supremacy** (which [Google](https://www.theverge.com/2019/10/23/20928294/google-quantum-supremacy-sycamore-computer-qubit-milestone) did achieve later this year).
 
-Quantum mechanics is the study of the fundamental particles that make up the universe, except, no on has any clue how the world works down there. Almost any kind of laws of physics we apply in the real world doesn't work there and We cannot observe that world as observing the particles changes the particles ([Heisenberg uncertainty principle](https://www.britannica.com/science/uncertainty-principle)). 
+Quantum mechanics is the study of the fundamental particles that make up the universe, except, no on has any clue how the world works down there. Almost any kind of laws of physics we apply in the real world doesn't work there and We cannot observe that world as observing the particles changes the particles ([Heisenberg uncertainty principle](https://www.britannica.com/science/uncertainty-principle)).
 
 So, How do you learn a topic that is only taught at major universities like MIT? You simply watch the classes on [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) and follow along like regular students do ✌️. This of course takes a lot of time given there are 115 videos in that playlist, but I managed to sit through 45 videos and it only took me 3 months! (And it's already March 😶). No wonder I didn't had the time for Machine Learning. I was also passively going through [OpenLearn](https://www.open.edu/openlearn/science-maths-technology/particle-physics/content-section-0) course-ware and the awesome [How to Teach Quantum Physics to Your Dog](https://books.google.co.in/books/about/How_to_Teach_Quantum_Physics_to_Your_Dog.html?id=mhq9DwAAQBAJ&source=kp_book_description&redir_esc=y) book which you might wanna checkout, if you are interested...
 
@@ -87,7 +89,7 @@ I'm kicking off 2020 with Quantum Computing so I'm not done with it yet. Might w
 
 As usual like every topic in science, string theory requires a lot of pre-requisites that includes understanding how theories before it failed to explain the nature of Universe. First of all I had to understand the special theory of relativity (refer ﹣ [minutephysics](https://www.youtube.com/watch?v=ajhFNcUTJI0)). Then I learnt about the forces of nature, additional dimensions and how sum of all positive natural numbers add up to -1/12 😶
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Maths?src=hash&amp;ref_src=twsrc%5Etfw">#Maths</a> is all fun and games until you realize the sum of all positive natural numbers is a negative number<br><br>1+2+3+4+....+∞ = -0.0833333<br><a href="https://twitter.com/hashtag/Ramanujan?src=hash&amp;ref_src=twsrc%5Etfw">#Ramanujan</a> <a href="https://twitter.com/hashtag/Summation?src=hash&amp;ref_src=twsrc%5Etfw">#Summation</a></p>&mdash; Dani Akash (<a href="https://twitter.com/dani_akash_">@dani_akash_</a>) <a href="https://twitter.com/dani_akash_/status/1148293397775413248?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Maths?src=hash&amp;ref_src=twsrc%5Etfw">#Maths</a> is all fun and games until you realize the sum of all positive natural numbers is a negative number<br><br>1+2+3+4+....+∞ = -0.0833333<br><a href="https://twitter.com/hashtag/Ramanujan?src=hash&amp;ref_src=twsrc%5Etfw">#Ramanujan</a> <a href="https://twitter.com/hashtag/Summation?src=hash&amp;ref_src=twsrc%5Etfw">#Summation</a></p>&mdash; Dani Akash (<a href="https://twitter.com/dani_akash_">@dani_akash_</a>) <a href="https://twitter.com/dani_akash_/status/1148293397775413248?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Before I knew it, I was watching ted talks after ted talks, running behind the easiest explanations for confusing concepts in YouTube. But I kept making steady progress with the book thanks to my curiosity to understand the nature of the Universe and the need to understand the Sheldon's side of conversation.
 
@@ -121,21 +123,21 @@ Luckily, I found the [Neural Networks Playlist](https://www.youtube.com/playlist
 
 ### 9. Swift UI ﹣ ❌
 
-####Building iOS Apps ﹣ Dani's Journal entries 
+####Building iOS Apps ﹣ Dani's Journal entries
 
-**Sometime in 2016** ﹣ ***Dani realizes the potential of Apple's iOS & macOS Devices and the Swift programming language and starts learning iOS App development***
+**Sometime in 2016** ﹣ **_Dani realizes the potential of Apple's iOS & macOS Devices and the Swift programming language and starts learning iOS App development_**
 
-**Again sometime in 2016** ﹣ ***Dani builds some iOS apps with poor designs convincing himself that he is now an iOS Developer***
+**Again sometime in 2016** ﹣ **_Dani builds some iOS apps with poor designs convincing himself that he is now an iOS Developer_**
 
-**October 2017** ﹣ ***Dani becomes a mobile app developer but on React Native instead of iOS and builds totally cool apps due to his natural aptitude in JS***
+**October 2017** ﹣ **_Dani becomes a mobile app developer but on React Native instead of iOS and builds totally cool apps due to his natural aptitude in JS_**
 
-**2017-2018** ﹣ ***Despite building beautiful & successful apps on React Native (thanks to [flexbox](https://facebook.github.io/react-native/docs/flexbox) and the UI/UX designers he worked with), Dani still tries to build apps with swift on iOS but he couldn't cuz he has the designing skills of a potato***
+**2017-2018** ﹣ **_Despite building beautiful & successful apps on React Native (thanks to [flexbox](https://facebook.github.io/react-native/docs/flexbox) and the UI/UX designers he worked with), Dani still tries to build apps with swift on iOS but he couldn't cuz he has the designing skills of a potato_**
 
-**3 June 2019** ﹣ ***Dani watches Apple's [WWDC 2019](https://developer.apple.com/videos/wwdc2019/) to create memes about apple & apple devices, but was surprised when they announced [SwiftUI](https://developer.apple.com/xcode/swiftui/). It's like someone in Apple listened to his worries and decided to make the design process much simpler! He decides to learn SwiftUI. (He still created tons of memes after the event since they also introduced an [expensive cheese grater](https://in.mashable.com/tech/3878/wwdc-2019-apples-new-mac-pro-is-basically-a-cheese-grater-tech-nerds-go-nuts))***
+**3 June 2019** ﹣ **_Dani watches Apple's [WWDC 2019](https://developer.apple.com/videos/wwdc2019/) to create memes about apple & apple devices, but was surprised when they announced [SwiftUI](https://developer.apple.com/xcode/swiftui/). It's like someone in Apple listened to his worries and decided to make the design process much simpler! He decides to learn SwiftUI. (He still created tons of memes after the event since they also introduced an [expensive cheese grater](https://in.mashable.com/tech/3878/wwdc-2019-apples-new-mac-pro-is-basically-a-cheese-grater-tech-nerds-go-nuts))_**
 
-**October 2019** ﹣ ***Dani successfully builds a simple iOS App with SwiftUI and runs it on his iPhone SE. Feeling accomplished, he decides to build more advanced apps hoping to learn more about SwiftUI***
+**October 2019** ﹣ **_Dani successfully builds a simple iOS App with SwiftUI and runs it on his iPhone SE. Feeling accomplished, he decides to build more advanced apps hoping to learn more about SwiftUI_**
 
-**December 2019** ﹣ ***By this time, Dani has already forgotten that he was supposed to learn SwiftUI and also that he owned an iPhone***
+**December 2019** ﹣ **_By this time, Dani has already forgotten that he was supposed to learn SwiftUI and also that he owned an iPhone_**
 
 ####End of the Journal entries
 
@@ -151,8 +153,8 @@ For the cheat sheets, I got this [amazing wallpaper](https://www.reddit.com/r/vi
 
 ## It's 2020
 
-I'm glad I took the time to reflect on all the things I have been learning in the past year. Also, pretty happy that I took the time to write my experience in my personal blog. I usually don't plan too much and simply learn as I find interesting stuff but I have a pretty good idea how 2020 is going to be ﹣ tech talks, blog posts, fluid animations and **SwiftUI** ***cuz why not?*** 😜
+I'm glad I took the time to reflect on all the things I have been learning in the past year. Also, pretty happy that I took the time to write my experience in my personal blog. I usually don't plan too much and simply learn as I find interesting stuff but I have a pretty good idea how 2020 is going to be ﹣ tech talks, blog posts, fluid animations and **SwiftUI** **_cuz why not?_** 😜
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Please ensure whatever you learn, you have plenty of fun, otherwise, it ain’t worth learning</p>&mdash; 𝙳𝚊𝚗𝚒 𝙰𝚔𝚊𝚜𝚑 (@dani_akash_) <a href="https://twitter.com/dani_akash_/status/1213503169113681921?ref_src=twsrc%5Etfw">January 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Please ensure whatever you learn, you have plenty of fun, otherwise, it ain’t worth learning</p>&mdash; 𝙳𝚊𝚗𝚒 𝙰𝚔𝚊𝚜𝚑 (@dani_akash_) <a href="https://twitter.com/dani_akash_/status/1213503169113681921?ref_src=twsrc%5Etfw">January 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This post marks the launch of Dani's personal website & his personal blog [daniakash.com](https://daniakash.com) which was initially planned to go live on last December. Not a great start but as the saying goes... **better late than never!**
