@@ -1,14 +1,14 @@
 ---
 title: Redux for state management
-date: "2020-03-20T18:30:00.000Z"
+date: '2020-03-20T18:30:00.000Z'
 layout: post
-path: "/posts/redux-for-state-managment/"
-category: "tech talks"
+path: '/posts/redux-for-state-managment/'
+category: 'tech talks'
 tags:
-  - "react"
-  - "redux"
-  - "coding"
-description: "Second video for the people under self quarantine. Learn redux in 1 hour!"
+  - 'react'
+  - 'redux'
+  - 'coding'
+description: 'Second video for the people under self quarantine. Learn redux in 1 hour!'
 ---
 
 <p>
@@ -18,4 +18,4 @@ description: "Second video for the people under self quarantine. Learn redux in 
 
 The application built in the above video ﹣ https://codesandbox.io/s/state-management-with-redux-4ntim
 
-This talk was part of [GUVI](https://www.guvi.in/webinar)'s 30 Days of free Webinars to help people who are self quarantined due to the [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) crisis learn new technologies.
+This talk was part of [GUVI](https://www.guvi.in/webinar)'s 30 Days of free Webinars to help people learn new technologies while they are self quarantined due to the [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) crisis.
